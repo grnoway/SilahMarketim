@@ -5,4 +5,4 @@
 --- 
 ## Bootstrap ile Silah Marketim
 
-![urunekranı](images/gorsel1.png)
+![urunekranı](images/gorselurun.png)
