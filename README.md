@@ -1,6 +1,4 @@
-## Silah Marketim
-
-### Bootstrap 1. Ödevi
+# My Weapon Market with Bootstrap
 
 --- 
 ## Bootstrap ile Silah Marketim
